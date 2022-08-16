@@ -28,7 +28,10 @@ ion\
 ght
 
 ## output
-18
+23
+-----------------------
+### Note :
+In this test case the longest substring starts from index = 8.
 
 
 
